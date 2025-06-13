@@ -1,6 +1,6 @@
 ### About Me
 
-Hi there! 👋 I'm a Data Scientist passionate about uncovering insights hidden within data and translating them into impactful decisions. My background uniquely combines Data Analysis with Psychology, providing me with a strong analytical mindset and a deep understanding of human behavior.
+Hi there! 👋 I'm a Data Scientist passionate about uncovering insights hidden within data and translating them into impactful decisions. My background uniquely combines Data Science with Psychology, providing me with a strong analytical mindset and a deep understanding of human behavior.
 
 Currently pursuing my Master's degree in Data Science at UBA (University of Buenos Aires), I specialize in:
 
