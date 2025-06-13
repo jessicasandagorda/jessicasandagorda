@@ -1,27 +1,17 @@
-# Hi, I'm Jessica Alejandra Sandagorda 👋
-
 ### About Me
 
-I hold a degree in Psychology and I'm a Data Scientist. I studied Psychology at the University of Buenos Aires and Data Science at the SoyHenry Bootcamp. I'm currently pursuing a Master's in Data Science at the University of Buenos Aires.
+Hi there! 👋 I'm a Data Scientist passionate about uncovering insights hidden within data and translating them into impactful decisions. My background uniquely combines Data Analysis with Psychology, providing me with a strong analytical mindset and a deep understanding of human behavior.
 
-### Featured Projects
+Currently pursuing my Master's degree in Data Science at UBA (University of Buenos Aires), I specialize in:
 
-- **Movie Recommendation System:** I implemented a recommendation system based on machine learning techniques, analyzing data from multiple sources to provide personalized recommendations.
+- Predictive Modeling and Machine Learning (Python & R)
 
-- **Telecommunications Company Dashboard:** I conducted an extensive data analysis for a telecommunications company and created an interactive dashboard to support data-driven decision-making.
+- Statistical Analysis & Data Visualization
 
-- **Restaurant Recommendation System:** I developed a machine learning model to recommend restaurants based on user preferences and other contextual factors.
+- SQL and Big Data Analytics (BigQuery)
 
-### Technologies and Tools
+- Workflow automation and AI-driven insights
 
-- Python: Pandas, Scikit-learn, Numpy, Matplotlib, Seaborn
-- SQL
-- Power BI
-- Git, GitHub
-- Streamlit
-- FastAPI
-- Render
+I enjoy participating in data challenges on platforms like Kaggle, where I continuously sharpen my skills. I'm enthusiastic about applying data-driven solutions to real-world problems, especially in education and technology sectors.
 
-### Objectives
-
-My goal is to continue deepening my knowledge in data science and machine learning, applying my expertise to solve complex problems and contribute value to high-impact projects.
+Let's connect! I'm always eager to collaborate, discuss interesting projects, or explore new opportunities.
